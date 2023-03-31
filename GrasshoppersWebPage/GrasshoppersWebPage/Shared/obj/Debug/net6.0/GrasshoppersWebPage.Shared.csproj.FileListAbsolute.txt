@@ -1,0 +1,12 @@
+C:\Users\jakub\source\repos\GrasshoppersWebPage\GrasshoppersWebPage\Shared\bin\Debug\net6.0\GrasshoppersWebPage.Shared.deps.json
+C:\Users\jakub\source\repos\GrasshoppersWebPage\GrasshoppersWebPage\Shared\bin\Debug\net6.0\GrasshoppersWebPage.Shared.dll
+C:\Users\jakub\source\repos\GrasshoppersWebPage\GrasshoppersWebPage\Shared\bin\Debug\net6.0\GrasshoppersWebPage.Shared.pdb
+C:\Users\jakub\source\repos\GrasshoppersWebPage\GrasshoppersWebPage\Shared\obj\Debug\net6.0\GrasshoppersWebPage.Shared.csproj.AssemblyReference.cache
+C:\Users\jakub\source\repos\GrasshoppersWebPage\GrasshoppersWebPage\Shared\obj\Debug\net6.0\GrasshoppersWebPage.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakub\source\repos\GrasshoppersWebPage\GrasshoppersWebPage\Shared\obj\Debug\net6.0\GrasshoppersWebPage.Shared.AssemblyInfoInputs.cache
+C:\Users\jakub\source\repos\GrasshoppersWebPage\GrasshoppersWebPage\Shared\obj\Debug\net6.0\GrasshoppersWebPage.Shared.AssemblyInfo.cs
+C:\Users\jakub\source\repos\GrasshoppersWebPage\GrasshoppersWebPage\Shared\obj\Debug\net6.0\GrasshoppersWebPage.Shared.csproj.CoreCompileInputs.cache
+C:\Users\jakub\source\repos\GrasshoppersWebPage\GrasshoppersWebPage\Shared\obj\Debug\net6.0\GrasshoppersWebPage.Shared.dll
+C:\Users\jakub\source\repos\GrasshoppersWebPage\GrasshoppersWebPage\Shared\obj\Debug\net6.0\refint\GrasshoppersWebPage.Shared.dll
+C:\Users\jakub\source\repos\GrasshoppersWebPage\GrasshoppersWebPage\Shared\obj\Debug\net6.0\GrasshoppersWebPage.Shared.pdb
+C:\Users\jakub\source\repos\GrasshoppersWebPage\GrasshoppersWebPage\Shared\obj\Debug\net6.0\ref\GrasshoppersWebPage.Shared.dll

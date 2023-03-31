@@ -1,0 +1,142 @@
+2023-03-14 20:12:24.5393 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Property 'type' has blank value, for element 'target(Name=grassWeb)' in section 'targets'
+2023-03-14 20:12:24.5555 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'grassWeb' not found for logging rule: *.
+2023-03-14 20:14:12.2751 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to parse layout containing type: appName - LayoutRenderer type-alias is unknown: 'appName'
+ ---> System.ArgumentException: LayoutRenderer type-alias is unknown: 'appName'
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(String typeName, ConfigurationItemFactory configurationItemFactory, Nullable`1 throwConfigExceptions)
+   --- End of inner exception stack trace ---
+2023-03-14 20:14:12.3197 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to parse layout containing type: excelption - LayoutRenderer type-alias is unknown: 'excelption'
+ ---> System.ArgumentException: LayoutRenderer type-alias is unknown: 'excelption'
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(String typeName, ConfigurationItemFactory configurationItemFactory, Nullable`1 throwConfigExceptions)
+   --- End of inner exception stack trace ---
+2023-03-14 20:16:45.8192 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to parse layout containing type: excelption - LayoutRenderer type-alias is unknown: 'excelption'
+ ---> System.ArgumentException: LayoutRenderer type-alias is unknown: 'excelption'
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(String typeName, ConfigurationItemFactory configurationItemFactory, Nullable`1 throwConfigExceptions)
+   --- End of inner exception stack trace ---
+2023-03-15 14:21:32.6670 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to parse layout containing type: excelption - LayoutRenderer type-alias is unknown: 'excelption'
+ ---> System.ArgumentException: LayoutRenderer type-alias is unknown: 'excelption'
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(String typeName, ConfigurationItemFactory configurationItemFactory, Nullable`1 throwConfigExceptions)
+   --- End of inner exception stack trace ---
+2023-03-28 16:51:52.8523 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to parse layout containing type: excelption - LayoutRenderer type-alias is unknown: 'excelption'
+ ---> System.ArgumentException: LayoutRenderer type-alias is unknown: 'excelption'
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(String typeName, ConfigurationItemFactory configurationItemFactory, Nullable`1 throwConfigExceptions)
+   --- End of inner exception stack trace ---
+2023-03-28 17:12:32.7869 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to parse layout containing type: excelption - LayoutRenderer type-alias is unknown: 'excelption'
+ ---> System.ArgumentException: LayoutRenderer type-alias is unknown: 'excelption'
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(String typeName, ConfigurationItemFactory configurationItemFactory, Nullable`1 throwConfigExceptions)
+   --- End of inner exception stack trace ---
+2023-03-28 17:38:15.5268 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to parse layout containing type: excelption - LayoutRenderer type-alias is unknown: 'excelption'
+ ---> System.ArgumentException: LayoutRenderer type-alias is unknown: 'excelption'
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(String typeName, ConfigurationItemFactory configurationItemFactory, Nullable`1 throwConfigExceptions)
+   --- End of inner exception stack trace ---
+2023-03-28 17:40:31.2344 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to parse layout containing type: excelption - LayoutRenderer type-alias is unknown: 'excelption'
+ ---> System.ArgumentException: LayoutRenderer type-alias is unknown: 'excelption'
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(String typeName, ConfigurationItemFactory configurationItemFactory, Nullable`1 throwConfigExceptions)
+   --- End of inner exception stack trace ---
+2023-03-28 17:45:22.2781 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to parse layout containing type: excelption - LayoutRenderer type-alias is unknown: 'excelption'
+ ---> System.ArgumentException: LayoutRenderer type-alias is unknown: 'excelption'
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(String typeName, ConfigurationItemFactory configurationItemFactory, Nullable`1 throwConfigExceptions)
+   --- End of inner exception stack trace ---
+2023-03-28 17:45:43.1908 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to parse layout containing type: excelption - LayoutRenderer type-alias is unknown: 'excelption'
+ ---> System.ArgumentException: LayoutRenderer type-alias is unknown: 'excelption'
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(String typeName, ConfigurationItemFactory configurationItemFactory, Nullable`1 throwConfigExceptions)
+   --- End of inner exception stack trace ---
+2023-03-28 17:48:10.3162 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to parse layout containing type: excelption - LayoutRenderer type-alias is unknown: 'excelption'
+ ---> System.ArgumentException: LayoutRenderer type-alias is unknown: 'excelption'
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(String typeName, ConfigurationItemFactory configurationItemFactory, Nullable`1 throwConfigExceptions)
+   --- End of inner exception stack trace ---
+2023-03-28 17:49:11.0147 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to parse layout containing type: excelption - LayoutRenderer type-alias is unknown: 'excelption'
+ ---> System.ArgumentException: LayoutRenderer type-alias is unknown: 'excelption'
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(String typeName, ConfigurationItemFactory configurationItemFactory, Nullable`1 throwConfigExceptions)
+   --- End of inner exception stack trace ---
+2023-03-28 17:53:06.1080 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to parse layout containing type: excelption - LayoutRenderer type-alias is unknown: 'excelption'
+ ---> System.ArgumentException: LayoutRenderer type-alias is unknown: 'excelption'
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(String typeName, ConfigurationItemFactory configurationItemFactory, Nullable`1 throwConfigExceptions)
+   --- End of inner exception stack trace ---
+2023-03-28 17:55:03.3566 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to parse layout containing type: excelption - LayoutRenderer type-alias is unknown: 'excelption'
+ ---> System.ArgumentException: LayoutRenderer type-alias is unknown: 'excelption'
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(String typeName, ConfigurationItemFactory configurationItemFactory, Nullable`1 throwConfigExceptions)
+   --- End of inner exception stack trace ---
+2023-03-28 17:55:19.9449 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to parse layout containing type: excelption - LayoutRenderer type-alias is unknown: 'excelption'
+ ---> System.ArgumentException: LayoutRenderer type-alias is unknown: 'excelption'
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(String typeName, ConfigurationItemFactory configurationItemFactory, Nullable`1 throwConfigExceptions)
+   --- End of inner exception stack trace ---
+2023-03-28 17:57:27.9394 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to parse layout containing type: excelption - LayoutRenderer type-alias is unknown: 'excelption'
+ ---> System.ArgumentException: LayoutRenderer type-alias is unknown: 'excelption'
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(String typeName, ConfigurationItemFactory configurationItemFactory, Nullable`1 throwConfigExceptions)
+   --- End of inner exception stack trace ---
+2023-03-28 17:59:53.8550 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to parse layout containing type: excelption - LayoutRenderer type-alias is unknown: 'excelption'
+ ---> System.ArgumentException: LayoutRenderer type-alias is unknown: 'excelption'
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(String typeName, ConfigurationItemFactory configurationItemFactory, Nullable`1 throwConfigExceptions)
+   --- End of inner exception stack trace ---
+2023-03-28 18:20:55.8940 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to parse layout containing type: excelption - LayoutRenderer type-alias is unknown: 'excelption'
+ ---> System.ArgumentException: LayoutRenderer type-alias is unknown: 'excelption'
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(String typeName, ConfigurationItemFactory configurationItemFactory, Nullable`1 throwConfigExceptions)
+   --- End of inner exception stack trace ---
+2023-03-28 18:22:28.8302 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to parse layout containing type: excelption - LayoutRenderer type-alias is unknown: 'excelption'
+ ---> System.ArgumentException: LayoutRenderer type-alias is unknown: 'excelption'
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(String typeName, ConfigurationItemFactory configurationItemFactory, Nullable`1 throwConfigExceptions)
+   --- End of inner exception stack trace ---
+2023-03-28 18:23:38.8224 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to parse layout containing type: excelption - LayoutRenderer type-alias is unknown: 'excelption'
+ ---> System.ArgumentException: LayoutRenderer type-alias is unknown: 'excelption'
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(String typeName, ConfigurationItemFactory configurationItemFactory, Nullable`1 throwConfigExceptions)
+   --- End of inner exception stack trace ---
+2023-03-28 18:24:08.0618 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to parse layout containing type: excelption - LayoutRenderer type-alias is unknown: 'excelption'
+ ---> System.ArgumentException: LayoutRenderer type-alias is unknown: 'excelption'
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(String typeName, ConfigurationItemFactory configurationItemFactory, Nullable`1 throwConfigExceptions)
+   --- End of inner exception stack trace ---
+2023-03-28 18:24:49.1634 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to parse layout containing type: excelption - LayoutRenderer type-alias is unknown: 'excelption'
+ ---> System.ArgumentException: LayoutRenderer type-alias is unknown: 'excelption'
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(String typeName, ConfigurationItemFactory configurationItemFactory, Nullable`1 throwConfigExceptions)
+   --- End of inner exception stack trace ---
+2023-03-28 18:28:13.7064 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to parse layout containing type: excelption - LayoutRenderer type-alias is unknown: 'excelption'
+ ---> System.ArgumentException: LayoutRenderer type-alias is unknown: 'excelption'
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(String typeName, ConfigurationItemFactory configurationItemFactory, Nullable`1 throwConfigExceptions)
+   --- End of inner exception stack trace ---
+2023-03-28 18:30:22.4620 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to parse layout containing type: excelption - LayoutRenderer type-alias is unknown: 'excelption'
+ ---> System.ArgumentException: LayoutRenderer type-alias is unknown: 'excelption'
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(String typeName, ConfigurationItemFactory configurationItemFactory, Nullable`1 throwConfigExceptions)
+   --- End of inner exception stack trace ---
+2023-03-29 10:53:58.9219 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to parse layout containing type: excelption - LayoutRenderer type-alias is unknown: 'excelption'
+ ---> System.ArgumentException: LayoutRenderer type-alias is unknown: 'excelption'
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(String typeName, ConfigurationItemFactory configurationItemFactory, Nullable`1 throwConfigExceptions)
+   --- End of inner exception stack trace ---
+2023-03-29 11:21:35.2240 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to parse layout containing type: excelption - LayoutRenderer type-alias is unknown: 'excelption'
+ ---> System.ArgumentException: LayoutRenderer type-alias is unknown: 'excelption'
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(String typeName, ConfigurationItemFactory configurationItemFactory, Nullable`1 throwConfigExceptions)
+   --- End of inner exception stack trace ---
+2023-03-31 17:24:34.8292 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to parse layout containing type: excelption - LayoutRenderer type-alias is unknown: 'excelption'
+ ---> System.ArgumentException: LayoutRenderer type-alias is unknown: 'excelption'
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(String typeName, ConfigurationItemFactory configurationItemFactory, Nullable`1 throwConfigExceptions)
+   --- End of inner exception stack trace ---
+2023-03-31 19:05:01.1922 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to parse layout containing type: excelption - LayoutRenderer type-alias is unknown: 'excelption'
+ ---> System.ArgumentException: LayoutRenderer type-alias is unknown: 'excelption'
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(String typeName, ConfigurationItemFactory configurationItemFactory, Nullable`1 throwConfigExceptions)
+   --- End of inner exception stack trace ---
