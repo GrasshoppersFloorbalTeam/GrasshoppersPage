@@ -13,5 +13,6 @@ namespace GrasshoppersWebPage.Shared.DbModels
         public int? JerseyNumber { get; set; }
         public string FieldPosition { get; set; }
         public DateTime? BirthDate { get; set; }
+        public string Mkak { get; set; }
     }
 }
